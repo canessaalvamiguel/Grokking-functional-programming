@@ -3,7 +3,7 @@ package Chapter2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CoffeeBreak2_declarative {
+public class CoffeeBreak1_declarative {
 
     public static void main(String[] args) {
         List<String> names = new ArrayList<>();
