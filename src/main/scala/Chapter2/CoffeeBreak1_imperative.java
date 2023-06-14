@@ -1,9 +1,9 @@
-package Chapter1;
+package Chapter2;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class CoffeeBreak2_imperative {
+public class CoffeeBreak1_imperative {
 
     public static void main(String[] args) {
         TipCalculator tipCalculator = new TipCalculator();
